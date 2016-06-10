@@ -1,9 +1,12 @@
 <!DOCTYPE html>
 <meta charset="utf-8">
-<title>Sausages on Stage: 2016</title>
+<title>Space to Speak: RSNZ Presenters 2016</title>
 <style>
 body {
   font: 16px sans-serif;
+	width: 900px;
+	text-align: justify;
+  text-justify: inter-word;
 }
 .axis path,
 .axis line {
@@ -21,6 +24,29 @@ body {
 }
 </style>
 <body>
+
+<h1>
+
+Space to Speak: RSNZ Presenters 2016
+</h1>
+
+<p>
+20 years ago, after fielding a number of complaints from female faculty, MIT commissioned an <a href="http://web.mit.edu/fnl/women/women.pdf
+">internal investigation</a> into the status of women academic staff in the science faculty. They found “differences in salary, space, awards, resources and response to outside offers between men and women faculty”.</p> 
+<p>In the spirit of measuring actual lab space, we measured speaking space, reviewing the estimated minutes allotted to male and female speakers in the various public events and talks organised by <a href="http://www.royalsociety.org.nz/events/">the Royal Society of New Zealand in 2016</a>. We have included speaking events in the future when the date, location and speaker have already been confirmed. 
+</p>
+<p>
+A couple of caveats: 
+<ul>
+<li>we recognise that gender is not binary, even though this graph presents it as such. We have assumed presentation and gender identity to be equated, and would prefer to have reported data from the Royal Society that would enable gender and other diversity to be better described.</li> 
+<li>We have assumed 60 minutes of speaking times for all events. For panel events, we have assumed that the 60 minutes speaking time was equally divided between all the panelists.</li> 
+</ul>
+</p>
+<p>
+This is intended to be a useful tool for balancing gender and other diversity across a programme of speakers, and to assist with future planning. 
+</p>
+
+
 <script src="http://d3js.org/d3.v3.min.js"></script>
 <script>
 var margin = {top: 20, right: 180, bottom: 30, left: 50},
@@ -95,3 +121,5 @@ d3.csv("data.csv", function(error, data) {
       .text(function(d) { return d.name; });
 });
 </script>
+
+<p>Code and data for this visualisation are available from <a href="https://gist.github.com/droneale/63855b64522a7da729bc0c20dfab61fb">this</a> gist.</p>

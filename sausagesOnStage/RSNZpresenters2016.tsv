@@ -1,0 +1,53 @@
+Date	Event name	Presenter name	Gender	plenary 	panel	location	minutes 	eventID	mins M	mins F	cum mins M	cum minsF
+4/02/16	Convicted for Science_ lessons from Aquila	Giulio Selvaggi	male	y	n		60	1	60	0	60	0
+9/02/16	Navigating Climate Change 	Max Boykoff	male	y	n		60	2	60	0	120	0
+1/03/16	Picturing Science	Massimiano Bucchi	male	y	n		60	3	60	0	180	0
+15/03/16	Gene Genie - genetics and disease	Adam Rutherford	male	n	y		15	4	15	0	195	0
+15/03/16	Gene Genie - genetics and disease	Vicky Cameron 	female	n	y		15	4	0	15	195	15
+15/03/16	Gene Genie - genetics and disease	Nigel French	male	n	y		15	4	15	0	210	15
+15/03/16	Gene Genie - genetics and disease	Parry Guilford	male	n	y		15	4	15	0	225	15
+15/03/16	is everything you know about genetics wrong?	Adam Rutherford 	male	y	n		60	5	60	0	285	15
+17/03/16	Gene Genie -Conservation Genomics	Adam Rutherford 	male	n	y		15	6	15	0	300	15
+17/03/16	Gene Genie -Conservation Genomics	Catherine Collins	female	n	y		15	6	0	15	300	30
+17/03/16	Gene Genie -Conservation Genomics	Neil Gemmell 	male	n	y		15	6	15	0	315	30
+17/03/16	Gene Genie -Conservation Genomics	Michael Knapp	male	n	y		15	6	15	0	330	30
+21/03/16	Gene Genie Family and Genealogy 	Adam Rutherford	male	n	y		15	7	15	0	345	30
+21/03/16	Gene Genie Family and Genealogy 	Lisa Matisoo-Smith	female	n	y		15	7	0	15	345	45
+21/03/16	Gene Genie Family and Genealogy 	Stephen Robertson 	male	n	y		15	7	15	0	360	45
+21/03/16	Gene Genie Family and Genealogy 	Hamish Spencer	male	n	y		15	7	15	0	375	45
+22/03/16	Gene Genie Genetics and Health 	Adam Rutherford	male	n	y		15	8	15	0	390	45
+22/03/16	Gene Genie Genetics and Health 	Don Love 	male	n	y		15	8	15	0	405	45
+22/03/16	Gene Genie Genetics and Health 	Rinki Murphy	female	n	y		15	8	0	15	405	60
+22/03/16	Gene Genie Genetics and Health 	Cristin Print 	male	n	y		15	8	15	0	420	60
+7/05/16	Sea level Rise 	Jonathan Bamber 	male	y	n		60	9	60	0	480	60
+11/05/16	The Sacred Disease	Ingrid Scheffer	female	y	n		60	10	0	60	480	120
+12/05/16	The Sacred Disease	Ingrid Scheffer	female	y	n		60	11	0	60	480	180
+13/05/16	The Sacred Disease	Ingrid Scheffer	female	y	n		60	12	0	60	480	240
+14/05/16	The Sacred Disease	Ingrid Scheffer	female	y	n		60	13	0	60	480	300
+15/05/16	The Sacred Disease	Ingrid Scheffer	female	y	n		60	14	0	60	480	360
+19/05/16	Managing our climate change 	Jean Palutikof 	female	y	n		60	15	0	60	480	420
+27/05/16	Solution Science 	Jim Skea	male	y	n		60	16	60	0	540	420
+5/07/16	10x10 Climate Change 	James Renwick 	male	n	y	Hamilton	30	17	30	0	570	420
+5/07/16	10x10 Climate Change 	Tim Naish 	male	n	y	Hamilton	30	17	30	0	600	420
+5/07/16	10x10 Climate Change 	James Renwick 	male	n	y	Rotorua	30	18	30	0	630	420
+5/07/16	10x10 Climate Change 	Tim Naish 	male	n	y	Rotorua	30	18	30	0	660	420
+6/07/16	10x10 Climate Change 	James Renwick 	male	n	y	Napier	30	19	30	0	690	420
+6/07/16	10x10 Climate Change 	Tim Naish 	male	n	y	Napier	30	19	30	0	720	420
+7/07/16	10x10 Climate Change 	James Renwick 	male	n	y	Palmerston North	30	20	30	0	750	420
+7/07/16	10x10 Climate Change 	Tim Naish 	male	n	y	Palmerston North	30	20	30	0	780	420
+12/07/16	Dr Graham's Scientific Funomena	Dr Graham 	male	y	n		60	21	60	0	840	420
+13/07/16	Dr Graham's Scientific Funomena	Dr Graham 	male	y	n		60	22	60	0	900	420
+3/08/16	10x10 Climate Change 	James Renwick 	male	n	y	Christchurch	30	23	30	0	930	420
+3/08/16	10x10 Climate Change 	Tim Naish 	male	n	y	Christchurch	30	23	30	0	960	420
+4/08/16	10x10 Climate Change 	James Renwick 	male	n	y	Dunedin	30	24	30	0	990	420
+4/08/16	10x10 Climate Change 	Tim Naish 	male	n	y	Dunedin	30	24	30	0	1020	420
+5/08/16	10x10 Climate Change 	James Renwick 	male	n	y	Wanaka	30	25	30	0	1050	420
+5/08/16	10x10 Climate Change 	Tim Naish 	male	n	y	Wanaka	30	25	30	0	1080	420
+30/08/16	Water	Alok Jha	male	y	n		60	26	60	0	1140	420
+31/08/16	Water 	Alok Jha	male	y	n		60	27	60	0	1200	420
+6/09/16	10x10 Climate Change 	James Renwick 	male	n	y	Auckland	30	28	30	0	1230	420
+6/09/16	10x10 Climate Change 	Tim Naish 	male	n	y	Auckland	30	28	30	0	1260	420
+7/09/16	10x10 Climate Change 	James Renwick 	male	n	y	Wellington	30	29	30	0	1290	420
+7/09/16	10x10 Climate Change 	Tim Naish 	male	n	y	Wellington	30	29	30	0	1320	420
+8/09/16	10x10 Climate Change 	James Renwick 	male	n	y	Nelson	30	30	30	0	1350	420
+8/09/16	10x10 Climate Change 	Tim Naish 	male	n	y	Nelson	30	30	30	0	1380	420
